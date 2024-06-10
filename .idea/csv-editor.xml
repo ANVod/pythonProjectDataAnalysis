@@ -3,21 +3,7 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="C:\Users\avody\Desktop\data.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="C:\Users\avody\Desktop\dz.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="C:\Users\avody\Desktop\electric-vehicle-population-metadata.csv">
+        <entry key="\Electric_Vehicle_Population_Data.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
