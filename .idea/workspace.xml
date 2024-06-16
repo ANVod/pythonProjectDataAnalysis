@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09bf3333-a8cb-4719-bb2f-a4a57f90698b" name="Changes" comment="Add GIT 2">
-      <change afterPath="$PROJECT_DIR$/DZ_AZ03/Gistagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ_AZ03/clean_price.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DZ_AZ03/processed_prices.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prices.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ_AZ03/AZ03_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_AZ03/AZ03_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DZ_AZ03/prices.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DZ_AZ03/prices.csv" afterDir="false" />
-    </list>
+    <list default="true" id="09bf3333-a8cb-4719-bb2f-a4a57f90698b" name="Changes" comment="Add GIT 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
