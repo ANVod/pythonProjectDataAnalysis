@@ -3,7 +3,6 @@ from selenium.webdriver.common.by import By
 import time
 import csv
 
-
 # Создаем экземпляр браузера Firefox
 driver = webdriver.Firefox()
 
@@ -36,4 +35,3 @@ with open('prices.csv', mode='w', newline='', encoding='utf-8') as file:
 driver.quit()
 
 print('Цены сохранены в prices.csv')
-
